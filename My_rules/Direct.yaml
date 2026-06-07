@@ -133,6 +133,7 @@ payload:
   - DOMAIN-KEYWORD,synology
   - DOMAIN-SUFFIX,xn--9kqz23b19z.com
   - DOMAIN-SUFFIX,jueduibupao.top
+  - DOMAIN-SUFFIX,xxxyun.top
   
   - IP-CIDR,220.130.197.210/32,no-resolve
   - IP-CIDR,234.33.157.217/32,no-resolve
