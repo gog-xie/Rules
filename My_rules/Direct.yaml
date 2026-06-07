@@ -128,6 +128,10 @@ payload:
   - DOMAIN-SUFFIX,sidhub.cc
   - DOMAIN-SUFFIX,seeduck.cc
   - DOMAIN-SUFFIX,hubdog.cc
+  - DOMAIN-SUFFIX,liangxin.xyz
+  - DOMAIN-SUFFIX,idsduf.com
+  - DOMAIN-KEYWORD,synology
+
   
   - IP-CIDR,220.130.197.210/32,no-resolve
   - IP-CIDR,234.33.157.217/32,no-resolve
